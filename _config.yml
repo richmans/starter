@@ -1,6 +1,14 @@
 ---
 title: Starter
 timezone: UTC
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      dirk_image: 
 collections:
   posts:
     title: Posts
