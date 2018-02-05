@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  dirken:
+    title: dirken
+    output: true
 auto: true
 server: true
 pygments: true
