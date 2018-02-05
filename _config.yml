@@ -17,7 +17,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: dirken
   values:
     layout: default
     dirk_image: 
